@@ -22,8 +22,5 @@ This is my portfolio. I kept the same content and structure and added CSS stylin
 2. Bank Account System (Python, classes and objects)
 3. Campus Lost and Found System (currently at the proposal stage)
 
-## How to view it
-Download `index.html` and `style.css`, keep them in the same folder, and open `index.html` in a web browser.
-
 ## Author
 Jesse Barnabs, Africa International University
